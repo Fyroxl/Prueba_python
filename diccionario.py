@@ -47,6 +47,10 @@ Metodos_listas = {
     "Ordenar_lista" : "sort()"
 }
 
+Metodos_funcionales = {
+    "Exeptuar_mayu_minus" : "lower()"
+}
+
 Diccionario_python = {"Diccionarios" : Metodos_diccionario, "Listas" : Metodos_listas, "Tuplas" : Metodos_tuplas}
 
 menu = """
