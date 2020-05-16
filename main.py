@@ -21,10 +21,10 @@ def EmailLoop():
             return
 
     if punto >= 1 and arroba == 1:
-        print("El email es correcto.")
+        print("\033[1;32mEl email es correcto.\033[1;m")
         insertar = True
     else:
-        print("El email es incorrecto.")
+        print("\033[1;31mEl email es incorrecto.\033[1;m")
 
     if insertar:
         validacion.append(email)
