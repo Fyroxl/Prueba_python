@@ -52,7 +52,7 @@ Diccionario_python = {"Diccionarios" : Metodos_diccionario, "Listas" : Metodos_l
 menu = """
   \033[1;32mDiccionarios sobre Python (Fyroxl)  \nSelecione el diccionario para consultar\033[1;m\n
 1) Metodos_dict (Diccionario)   4) Metodo_nuevo
-2) Metodos_list (Listas)        5)
+2) Metodos_list (Listas)        5) Metodo_nuevo2
 3) Metodos_tuple (Tuplas)       6)
 """ ; print(menu) ; n = int(input("\033[1;32mNumero\033[1;m : "))
 
